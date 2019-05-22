@@ -2,9 +2,8 @@
     /* box-sizing: border-box; */
 }
 
-.jumbotron h1 {
+.jumbotron h1, .navbar-brand {
     font-family: 'Indie Flower', cursive;
-
 }
 
 
